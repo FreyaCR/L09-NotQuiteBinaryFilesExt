@@ -1,6 +1,5 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.converter
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.converter
 
-import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -9,9 +8,9 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.R
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.data.HistoryFile
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.data.SharedPrefFile
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.R
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.data.HistoryFile
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.data.SharedPrefFile
 
 class ConverterFragment : Fragment() {
 

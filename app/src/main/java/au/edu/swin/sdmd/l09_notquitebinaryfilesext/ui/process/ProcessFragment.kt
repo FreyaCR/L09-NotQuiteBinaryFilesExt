@@ -1,4 +1,4 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.process
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.process
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import android.text.Html
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.R
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.data.RawResourceFile
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.R
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.data.RawResourceFile
 
 class ProcessFragment : Fragment() {
 

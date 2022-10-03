@@ -1,10 +1,10 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.process
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.process
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Html
 import android.widget.TextView
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.R
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.R
 
 class ProcessActivity : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {

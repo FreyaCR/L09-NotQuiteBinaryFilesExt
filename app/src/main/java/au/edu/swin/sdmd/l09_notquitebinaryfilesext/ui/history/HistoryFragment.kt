@@ -1,4 +1,4 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.history
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.history
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,9 +8,9 @@ import android.widget.ArrayAdapter
 import android.widget.ListView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.R
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.data.HistoryFile
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.data.SharedPrefFile
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.R
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.data.HistoryFile
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.data.SharedPrefFile
 
 class HistoryFragment : Fragment() {
 

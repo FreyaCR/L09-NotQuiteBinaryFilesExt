@@ -1,4 +1,4 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.databinding.ActivityMainBinding
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

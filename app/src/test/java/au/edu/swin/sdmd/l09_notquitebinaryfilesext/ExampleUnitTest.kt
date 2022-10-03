@@ -1,4 +1,4 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext
 
 import org.junit.Test
 

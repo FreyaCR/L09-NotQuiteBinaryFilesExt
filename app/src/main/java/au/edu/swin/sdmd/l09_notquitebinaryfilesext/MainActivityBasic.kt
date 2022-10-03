@@ -1,12 +1,12 @@
-package au.edu.swin.sdmd.l09_notquitebinaryfiles
+package au.edu.swin.sdmd.l09_notquitebinaryfilesext
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.converter.ConverterActivity
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.history.HistoryActivity
-import au.edu.swin.sdmd.l09_notquitebinaryfiles.ui.process.ProcessActivity
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.converter.ConverterActivity
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.history.HistoryActivity
+import au.edu.swin.sdmd.l09_notquitebinaryfilesext.ui.process.ProcessActivity
 
 class MainActivityBasic : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
